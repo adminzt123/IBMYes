@@ -1,5 +1,5 @@
 name: IBM Cloud Auto Restart
-##TEST
+
 on:
   push:
     branches: [ master ]
